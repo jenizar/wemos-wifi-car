@@ -5,11 +5,11 @@ materials:
 
 wemos d1 mini, motor driver l298, lipo battery 2s 7.4v, 2WD kit, breadboard, jumper cable 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/wemos-wifi-car/blob/main/screenshot/image1.jpg)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/wemos-wifi-car/blob/main/screenshot/image2.jpg)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/wemos-wifi-car/blob/main/screenshot/image3.jpg)
 
 references:
 
